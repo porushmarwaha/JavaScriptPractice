@@ -33,4 +33,4 @@ equationCalculator = (test) => {
 }
 const test2 = [1];
 const test = [15, 7, 1, 1, "+", "-", "/", 3, "*", 2, 1, 1, "+", "+", "-"];
-console.log(equationCalculator(test2));
+console.log(equationCalculator(test));
